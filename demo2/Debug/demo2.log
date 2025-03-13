@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\DEMO\demo2\demo2\源.cpp(99,24): warning C4018: “<”: 有符号/无符号不匹配
+F:\DEMO\demo2\demo2\源.cpp(1050): warning C4715: “BOSS::deathtime”: 不是所有的控件路径都返回值
+  demo2.vcxproj -> F:\DEMO\demo2\Debug\demo2.exe
